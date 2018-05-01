@@ -3,9 +3,9 @@
     <fullName>Glassdoor_Review__c</fullName>
     <externalId>false</externalId>
     <label>Glassdoor Review</label>
-    <precision>1</precision>
+    <precision>2</precision>
     <required>false</required>
-    <scale>0</scale>
+    <scale>1</scale>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Number</type>
     <unique>false</unique>
